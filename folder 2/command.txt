@@ -1,0 +1,32 @@
+Git Commands 
+
+git init To initialize a repository
+
+git clone To create a local copy of an existing Git repository. 
+
+code . to open your GitHub repository into vscode
+
+git add . (for adding multiple changes to staging area)
+
+git add filename to add a specifc file to staging area
+
+git commit -m "message" to commit changes
+
+git push to push to remote repo
+
+git pull to pull a remote repo 
+
+git branch (Branchname of a new branch) it is used to create a new branch
+
+git checkout To change b/w branches
+
+git checkout -b To create and switch to the branch 
+
+git branch to view all the branches
+
+git branch -d branch-name to delete a branch
+
+git fetch to fetch all the branches
+
+git cherry-pick #  a Git that allows you to select one or more specific commits from one branch and apply the changes introduced by those commits to another branch
+
