@@ -10,7 +10,7 @@ git add . (for adding multiple changes to staging area)
 
 git add filename to add a specifc file to staging area
 
-github is not even worth a penny
+conflict
 
 git push to push to remote repo
 
